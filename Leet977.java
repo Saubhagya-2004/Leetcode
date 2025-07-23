@@ -1,3 +1,4 @@
+//sorted  squre
 import java.util.*;
 public class Leet977 {
     public static int[] sortedsqure(int nums[]){
