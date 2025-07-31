@@ -16,6 +16,6 @@ public class Leet53 {
         return maxsum;
     }
     public static void main(String[] args) {
-   System.out.println(MaxsubArray(new int[]{5}));
+   System.out.println(MaxsubArray(new int[]{5,4,-1,7,8}));
     }
 }
