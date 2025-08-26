@@ -1,3 +1,4 @@
+//mergeNodes after 0 add that value and return new node
 public class Leet2181 {
     int value;
     Leet2181 next;
